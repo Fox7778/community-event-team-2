@@ -8,6 +8,12 @@ body {
  font-family: "Roboto Condensed", sans-serif;
 }
 #info-sekce {
-  font-size: 14px;
+  font-size: 40px;
+  font-weight: bold;
   color: #2C2C2C;
+  text-align: center;
+}
+.moon{
+  width:540px;
+  height:540px;
 }
