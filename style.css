@@ -7,3 +7,7 @@ body {
  background-color: var(--brand-beige);
  font-family: "Roboto Condensed", sans-serif;
 }
+#info-sekce {
+  font-size: 14px;
+  color: #2C2C2C;
+}
